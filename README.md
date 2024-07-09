@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a keen 
 
 ## About Me
 
-- 💥 I’m currently learning Game development
+- 💥 I’m currently learning Godot.
 - 🦾 I’m looking to collaborate on Multiple projects and to boost my skills
 - 📫 How to reach me: [kumardeepaktc@gmail.com](mailto:kumardeepaktc@example.com)
-- ⚡ Fun fact: I'm Batman
+- ⚡ Fun fact: I'm Master Oogway
 
 ## 🛠 Skills
 

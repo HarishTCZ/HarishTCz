@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a keen 
   
 ## 📫 Connect with Me
 
-- Resume: [Harish-Ragavendra-TC](https://drive.google.com/drive/folders/1ZQyp4-Ob9B3yb9ZO0RScD4zfzADTYD2Q)
+- Resume: [Harish-Ragavendra-TC]([https://drive.google.com/drive/folders/1ZQyp4-Ob9B3yb9ZO0RScD4zfzADTYD2Q](https://leetcode.com/u/Sydneywoah/))
 - LinkedIn: [Harish-Ragavendra-TC](https://www.linkedin.com/in/harishtcx/)
 
  Thank you for visiting my GitHub profile! 

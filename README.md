@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a keen 
 
 ## About Me
 
-- 💥 I’m currently learning Godot.
+- 💥 I’m currently learning Springboot.
 - 🦾 I’m looking to collaborate on Multiple projects and to boost my skills
 - 📫 How to reach me: [kumardeepaktc@gmail.com](mailto:kumardeepaktc@example.com)
 - ⚡ Fun fact: I'm Master Oogway
@@ -13,17 +13,20 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a keen 
 
 - **Languages:**
   - HTML5,CSS
-  - C
+  - JavaScript
   - Java
   - Python
+  - C++
 
 - **Frameworks and Libraries:**
   - Bootstrap
+  - Springboot
   - Django
 
 - **Tools and Platforms:**
   -  Version Control(Git,Github)
   -  Visual Studio Code
+  -  intellIJ
   -  Eclipse,Pycharm
   -  SqlWorkbench
 

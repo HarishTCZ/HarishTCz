@@ -4,31 +4,18 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a keen 
 
 ## About Me
 
-- 💥 I’m currently learning Springboot.
-- 🦾 I’m looking to collaborate on Multiple projects and to boost my skills
+- 💥 I’m currently learning Spring Boot.
+- 🦾 Learning advanced Java concepts and exploring real-world projects.
+- 👾 Open to collaborating on backend development and Java projects.
 - 📫 How to reach me: [kumardeepaktc@gmail.com](mailto:kumardeepaktc@example.com)
 - ⚡ Fun fact: I'm Master Oogway
 
 ## 🛠 Skills
 
-- **Languages:**
-  - HTML5,CSS
-  - JavaScript
-  - Java
-  - Python
-  - C++
-
-- **Frameworks and Libraries:**
-  - Bootstrap
-  - Springboot
-  - Django
-
-- **Tools and Platforms:**
-  -  Version Control(Git,Github)
-  -  Visual Studio Code
-  -  intellIJ
-  -  Eclipse,Pycharm
-  -  SqlWorkbench
+- Languages: C ,C++ , Java, JavaScript, HTML, CSS
+- Frameworks: Spring Boot, Hibernate
+- Databases: MySQL, PostgreSQL
+- Tools: Git, GitHub, Maven, JUnit, Godot
 
 ## 📂 Projects
 
